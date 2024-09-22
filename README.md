@@ -1,0 +1,1 @@
+I decided to make a music event, where 3 musicians will perform. There are many things in this project that I would be willing to do differently, but I'm going to leave it like this. I believe I have done everything that was asked in the project.
